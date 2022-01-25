@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 639.2540999999998,
+    "videos": [
         "Nomas Contigo ╦ Mario Quintero (con letra)-zpPcd3MN16k.mp4",
         "Neon Indian - Psychic Chasms-nEI-POH4W-c.mp4",
         "4 Non Blondes - What's Up (Official Music Video)-6NXnxTNIWkc.mp4",
@@ -64,7 +65,5 @@
         "Nobody But You ~ Dee Clark (1958)(78 rpm)-CTp_nMFf1Ek.mp4",
         "Nickelback - Million Miles An Hour (Lyric Video)-mVwTaTEpT8I.mp4",
         "Nirvana - Smells Like Teen Spirit (Official Music Video)-hTWKbfoikeg.mp4"
-    ],
-    "id": "n1",
-    "total_size": 609.6401777343748
+    ]
 }
