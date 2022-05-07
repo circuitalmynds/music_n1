@@ -1,69 +1,321 @@
 {
     "available_space": true,
-    "total_size": 639.2540999999998,
-    "videos": [
-        "Nomas Contigo ╦ Mario Quintero (con letra)-zpPcd3MN16k.mp4",
-        "Neon Indian - Psychic Chasms-nEI-POH4W-c.mp4",
-        "4 Non Blondes - What's Up (Official Music Video)-6NXnxTNIWkc.mp4",
-        "NATIVA - Mundo Enfermo feat. Macaco & Ciudad Jara (Versión con banda)-y1b7XL6j4To.mp4",
-        "New Edition - Cool It Now (Official Video)-RZUq6N7Gx1c.mp4",
-        "No Esta Perdido-C99KbQNC_Do.mp4",
-        "No me lavo en la vida (In a Gadda da Vida)-K-9Sdk5mnkg.mp4",
-        "Neon Indian - Polish Girl (Video oficial)-GuPGZZgNFsU.mp4",
-        "Nutshell-_siJRgDlddY.mp4",
-        "No Me Hagas Menos-LDv8iVUj_Os.mp4",
-        "Newton - Streamline-E7k1LJ7D-Uo.mp4",
-        "No Cabe Duda-mj6_CXTul2A.mp4",
-        "Never Stop-BQ3k_hDrj0Q.mp4",
-        "Nomas Di - Los Herederos De Nuevo Leon-feoqt9ZuETI.mp4",
-        "No Me Se Rajar-AHxrzSLigr4.mp4",
-        "Nacha Pop    La Chica de Ayer-oAcwJlNdwso.mp4",
-        "New Day-W4vePm3Nqz8.mp4",
-        "Ni Lo Intentes - Julion Alvarez (Letra) HD-0lJESXob8fA.mp4",
-        "Ni Dios Ni Amo - El Noi del Sucre-idjf_jpABcI.mp4",
-        "No Como Amigo-Conjunto Primavera de Tony (con letra)-DCRJx7FzXmQ.mp4",
-        "Nomas a La Mitad (En Vivo)-5-S-QHt2D-Q.mp4",
-        "Necesito de tí-JEOvt-KoX84.mp4",
-        "Natanael Cano - Arriba [Official Video]-AyoTYhkJyog.mp4",
-        "No Hay Novedad-EqfiVB8qqdM.mp4",
-        "No podemos continuar--e_uKB_FJo0.mp4",
-        "No Estuches-fVWAAsOmAMQ.mp4",
-        "Nanpa Básico Ft. Charles Ans - Canela (video oficial)-j6I31BaHMuc.mp4",
-        "Neon Indian Deadbeat Summer-qlJ27Dcv4fc.mp4",
-        "New Kid in Town (2013 Remaster)--Pa5nqYXEnY.mp4",
-        "No Puedo Konsentir-tvBGYyHsd9A.mp4",
-        "Nirvana - Come As You Are (Live On MTV Unplugged, 1993 _ Unedited)-z9LiPuVRyU8.mp4",
-        "NAPOLEON - ERES-hn32C2-TzME.mp4",
-        "Notas Eclesiásticas-8BbtRGLWCVg.mp4",
-        "Nueva Vida-NniKEXoKQuc.mp4",
-        "No Existen Palomas Blancas En Mi Barrio-elxP1m7rZfc.mp4",
-        "Ni Asi Me Rajo-CObxGDkgZxQ.mp4",
-        "Nirvana - The Man Who Sold The World (MTV Unplugged)-fregObNcHC8.mp4",
-        "Now You Know (I Love You So) ~ The Channels (1956)(78 rpm)-O2zHF4JGSN4.mp4",
-        "No me importa-i9TC0x_BOGs.mp4",
-        "No te vayas por favor-vw15dywjZEc.mp4",
-        "Numb [Official Music Video] - Linkin Park-kXYiU_JCYtU.mp4",
-        "No tengo ná - Robe con Tabletom-1oi0R8pKjec.mp4",
-        "Narcosis - Sucio policia-Ues97dFzbdE.mp4",
-        "No Como Barby No!!-ntEulrdc1DY.mp4",
-        "Nada-6mTcbGOX2RM.mp4",
-        "No me acostumbro a que no estés-cxFxvQxnHfQ.mp4",
-        "N-ER-GEE (Crisis Blues)-DB-1EZNCAy4.mp4",
-        "No Llores Más (En Vivo)-r6M_C8lgdhg.mp4",
-        "NEGRO- LAUREL AITKEN-5v3BN7rd80c.mp4",
-        "No Es un Crimen-bb-wl2vw-9I.mp4",
-        "Nudes-5ePpP5SJnGk.mp4",
-        "New Order - Blue Monday (Official Lyric Video)-c1GxjzHm5us.mp4",
-        "New Order - Waiting For The Sirens Call [OFFICIAL MUSIC VIDEO]-3oOB9ektig4.mp4",
-        "Nunca Más-eQSJWbGeCGc.mp4",
-        "Nightwish - Nemo [OFFICIAL VIDEO]-kIBdpFJyFkc.mp4",
-        "No Horse-lykmZf7FPjs.mp4",
-        "New Order - Bizarre Love Triangle (Official Music Video) [HD Upgrade]-tkOr12AQpnU.mp4",
-        "Naila CONJUNTO PRIMAVERA-ojKX6G6is3I.mp4",
-        "No Hay Nada Completo-3buGIpX_Zm8.mp4",
-        "Ninna e Pasquale-GxMiljTUZzs.mp4",
-        "Nobody But You ~ Dee Clark (1958)(78 rpm)-CTp_nMFf1Ek.mp4",
-        "Nickelback - Million Miles An Hour (Lyric Video)-mVwTaTEpT8I.mp4",
-        "Nirvana - Smells Like Teen Spirit (Official Music Video)-hTWKbfoikeg.mp4"
-    ]
+    "files": [
+        {
+            "name": "Nomas Contigo ╦ Mario Quintero (con letra)-zpPcd3MN16k.mp4",
+            "path": "music_n1/videos/Nomas Contigo ╦ Mario Quintero (con letra)-zpPcd3MN16k.mp4",
+            "size": 11.26613504
+        },
+        {
+            "name": "Neon Indian - Psychic Chasms-nEI-POH4W-c.mp4",
+            "path": "music_n1/videos/Neon Indian - Psychic Chasms-nEI-POH4W-c.mp4",
+            "size": 13.064782848
+        },
+        {
+            "name": "4 Non Blondes - What's Up (Official Music Video)-6NXnxTNIWkc.mp4",
+            "path": "music_n1/videos/4 Non Blondes - What's Up (Official Music Video)-6NXnxTNIWkc.mp4",
+            "size": 27.465116672
+        },
+        {
+            "name": "NATIVA - Mundo Enfermo feat. Macaco & Ciudad Jara (Versión con banda)-y1b7XL6j4To.mp4",
+            "path": "music_n1/videos/NATIVA - Mundo Enfermo feat. Macaco & Ciudad Jara (Versión con banda)-y1b7XL6j4To.mp4",
+            "size": 23.849101312000002
+        },
+        {
+            "name": "New Edition - Cool It Now (Official Video)-RZUq6N7Gx1c.mp4",
+            "path": "music_n1/videos/New Edition - Cool It Now (Official Video)-RZUq6N7Gx1c.mp4",
+            "size": 17.368585216
+        },
+        {
+            "name": "No Esta Perdido-C99KbQNC_Do.mp4",
+            "path": "music_n1/videos/No Esta Perdido-C99KbQNC_Do.mp4",
+            "size": 6.954210304
+        },
+        {
+            "name": "No me lavo en la vida (In a Gadda da Vida)-K-9Sdk5mnkg.mp4",
+            "path": "music_n1/videos/No me lavo en la vida (In a Gadda da Vida)-K-9Sdk5mnkg.mp4",
+            "size": 6.3323463680000005
+        },
+        {
+            "name": "Neon Indian - Polish Girl (Video oficial)-GuPGZZgNFsU.mp4",
+            "path": "music_n1/videos/Neon Indian - Polish Girl (Video oficial)-GuPGZZgNFsU.mp4",
+            "size": 15.654263808000001
+        },
+        {
+            "name": "Nutshell-_siJRgDlddY.mp4",
+            "path": "music_n1/videos/Nutshell-_siJRgDlddY.mp4",
+            "size": 7.0867066880000005
+        },
+        {
+            "name": "No Me Hagas Menos-LDv8iVUj_Os.mp4",
+            "path": "music_n1/videos/No Me Hagas Menos-LDv8iVUj_Os.mp4",
+            "size": 7.452997632000001
+        },
+        {
+            "name": "Newton - Streamline-E7k1LJ7D-Uo.mp4",
+            "path": "music_n1/videos/Newton - Streamline-E7k1LJ7D-Uo.mp4",
+            "size": 27.60251904
+        },
+        {
+            "name": "No Cabe Duda-mj6_CXTul2A.mp4",
+            "path": "music_n1/videos/No Cabe Duda-mj6_CXTul2A.mp4",
+            "size": 4.159760384
+        },
+        {
+            "name": "Never Stop-BQ3k_hDrj0Q.mp4",
+            "path": "music_n1/videos/Never Stop-BQ3k_hDrj0Q.mp4",
+            "size": 7.412631552000001
+        },
+        {
+            "name": "Nomas Di - Los Herederos De Nuevo Leon-feoqt9ZuETI.mp4",
+            "path": "music_n1/videos/Nomas Di - Los Herederos De Nuevo Leon-feoqt9ZuETI.mp4",
+            "size": 5.378466816
+        },
+        {
+            "name": "No Me Se Rajar-AHxrzSLigr4.mp4",
+            "path": "music_n1/videos/No Me Se Rajar-AHxrzSLigr4.mp4",
+            "size": 5.74226944
+        },
+        {
+            "name": "Nacha Pop    La Chica de Ayer-oAcwJlNdwso.mp4",
+            "path": "music_n1/videos/Nacha Pop    La Chica de Ayer-oAcwJlNdwso.mp4",
+            "size": 17.832809472
+        },
+        {
+            "name": "New Day-W4vePm3Nqz8.mp4",
+            "path": "music_n1/videos/New Day-W4vePm3Nqz8.mp4",
+            "size": 5.441303552
+        },
+        {
+            "name": "Ni Lo Intentes - Julion Alvarez (Letra) HD-0lJESXob8fA.mp4",
+            "path": "music_n1/videos/Ni Lo Intentes - Julion Alvarez (Letra) HD-0lJESXob8fA.mp4",
+            "size": 4.1960509440000004
+        },
+        {
+            "name": "Ni Dios Ni Amo - El Noi del Sucre-idjf_jpABcI.mp4",
+            "path": "music_n1/videos/Ni Dios Ni Amo - El Noi del Sucre-idjf_jpABcI.mp4",
+            "size": 12.469787648
+        },
+        {
+            "name": "No Como Amigo-Conjunto Primavera de Tony (con letra)-DCRJx7FzXmQ.mp4",
+            "path": "music_n1/videos/No Como Amigo-Conjunto Primavera de Tony (con letra)-DCRJx7FzXmQ.mp4",
+            "size": 7.287124992000001
+        },
+        {
+            "name": "Nomas a La Mitad (En Vivo)-5-S-QHt2D-Q.mp4",
+            "path": "music_n1/videos/Nomas a La Mitad (En Vivo)-5-S-QHt2D-Q.mp4",
+            "size": 3.5192780800000003
+        },
+        {
+            "name": "Necesito de tí-JEOvt-KoX84.mp4",
+            "path": "music_n1/videos/Necesito de tí-JEOvt-KoX84.mp4",
+            "size": 5.448201216
+        },
+        {
+            "name": "Natanael Cano - Arriba [Official Video]-AyoTYhkJyog.mp4",
+            "path": "music_n1/videos/Natanael Cano - Arriba [Official Video]-AyoTYhkJyog.mp4",
+            "size": 20.530753536000002
+        },
+        {
+            "name": "No Hay Novedad-EqfiVB8qqdM.mp4",
+            "path": "music_n1/videos/No Hay Novedad-EqfiVB8qqdM.mp4",
+            "size": 5.0916423680000005
+        },
+        {
+            "name": "No podemos continuar--e_uKB_FJo0.mp4",
+            "path": "music_n1/videos/No podemos continuar--e_uKB_FJo0.mp4",
+            "size": 6.477398016
+        },
+        {
+            "name": "No Estuches-fVWAAsOmAMQ.mp4",
+            "path": "music_n1/videos/No Estuches-fVWAAsOmAMQ.mp4",
+            "size": 4.740852736
+        },
+        {
+            "name": "Nanpa Básico Ft. Charles Ans - Canela (video oficial)-j6I31BaHMuc.mp4",
+            "path": "music_n1/videos/Nanpa Básico Ft. Charles Ans - Canela (video oficial)-j6I31BaHMuc.mp4",
+            "size": 9.910532096
+        },
+        {
+            "name": "Neon Indian Deadbeat Summer-qlJ27Dcv4fc.mp4",
+            "path": "music_n1/videos/Neon Indian Deadbeat Summer-qlJ27Dcv4fc.mp4",
+            "size": 8.33832448
+        },
+        {
+            "name": "New Kid in Town (2013 Remaster)--Pa5nqYXEnY.mp4",
+            "path": "music_n1/videos/New Kid in Town (2013 Remaster)--Pa5nqYXEnY.mp4",
+            "size": 10.102224896000001
+        },
+        {
+            "name": "No Puedo Konsentir-tvBGYyHsd9A.mp4",
+            "path": "music_n1/videos/No Puedo Konsentir-tvBGYyHsd9A.mp4",
+            "size": 2.1577553920000003
+        },
+        {
+            "name": "Nirvana - Come As You Are (Live On MTV Unplugged, 1993 _ Unedited)-z9LiPuVRyU8.mp4",
+            "path": "music_n1/videos/Nirvana - Come As You Are (Live On MTV Unplugged, 1993 _ Unedited)-z9LiPuVRyU8.mp4",
+            "size": 24.567931904
+        },
+        {
+            "name": "NAPOLEON - ERES-hn32C2-TzME.mp4",
+            "path": "music_n1/videos/NAPOLEON - ERES-hn32C2-TzME.mp4",
+            "size": 8.05074944
+        },
+        {
+            "name": "Notas Eclesiásticas-8BbtRGLWCVg.mp4",
+            "path": "music_n1/videos/Notas Eclesiásticas-8BbtRGLWCVg.mp4",
+            "size": 6.000685056
+        },
+        {
+            "name": "Nueva Vida-NniKEXoKQuc.mp4",
+            "path": "music_n1/videos/Nueva Vida-NniKEXoKQuc.mp4",
+            "size": 3.705928704
+        },
+        {
+            "name": "No Existen Palomas Blancas En Mi Barrio-elxP1m7rZfc.mp4",
+            "path": "music_n1/videos/No Existen Palomas Blancas En Mi Barrio-elxP1m7rZfc.mp4",
+            "size": 1.8127616000000002
+        },
+        {
+            "name": "Ni Asi Me Rajo-CObxGDkgZxQ.mp4",
+            "path": "music_n1/videos/Ni Asi Me Rajo-CObxGDkgZxQ.mp4",
+            "size": 9.481972736000001
+        },
+        {
+            "name": "Nirvana - The Man Who Sold The World (MTV Unplugged)-fregObNcHC8.mp4",
+            "path": "music_n1/videos/Nirvana - The Man Who Sold The World (MTV Unplugged)-fregObNcHC8.mp4",
+            "size": 19.791757312
+        },
+        {
+            "name": "Now You Know (I Love You So) ~ The Channels (1956)(78 rpm)-O2zHF4JGSN4.mp4",
+            "path": "music_n1/videos/Now You Know (I Love You So) ~ The Channels (1956)(78 rpm)-O2zHF4JGSN4.mp4",
+            "size": 5.908898816000001
+        },
+        {
+            "name": "No me importa-i9TC0x_BOGs.mp4",
+            "path": "music_n1/videos/No me importa-i9TC0x_BOGs.mp4",
+            "size": 1.9881472000000002
+        },
+        {
+            "name": "No te vayas por favor-vw15dywjZEc.mp4",
+            "path": "music_n1/videos/No te vayas por favor-vw15dywjZEc.mp4",
+            "size": 5.748087808
+        },
+        {
+            "name": "Numb [Official Music Video] - Linkin Park-kXYiU_JCYtU.mp4",
+            "path": "music_n1/videos/Numb [Official Music Video] - Linkin Park-kXYiU_JCYtU.mp4",
+            "size": 12.276097024
+        },
+        {
+            "name": "No tengo ná - Robe con Tabletom-1oi0R8pKjec.mp4",
+            "path": "music_n1/videos/No tengo ná - Robe con Tabletom-1oi0R8pKjec.mp4",
+            "size": 15.399569408000001
+        },
+        {
+            "name": "Narcosis - Sucio policia-Ues97dFzbdE.mp4",
+            "path": "music_n1/videos/Narcosis - Sucio policia-Ues97dFzbdE.mp4",
+            "size": 4.9509038080000005
+        },
+        {
+            "name": "No Como Barby No!!-ntEulrdc1DY.mp4",
+            "path": "music_n1/videos/No Como Barby No!!-ntEulrdc1DY.mp4",
+            "size": 7.638457344000001
+        },
+        {
+            "name": "Nada-6mTcbGOX2RM.mp4",
+            "path": "music_n1/videos/Nada-6mTcbGOX2RM.mp4",
+            "size": 7.253535744000001
+        },
+        {
+            "name": "No me acostumbro a que no estés-cxFxvQxnHfQ.mp4",
+            "path": "music_n1/videos/No me acostumbro a que no estés-cxFxvQxnHfQ.mp4",
+            "size": 9.926372352000001
+        },
+        {
+            "name": "N-ER-GEE (Crisis Blues)-DB-1EZNCAy4.mp4",
+            "path": "music_n1/videos/N-ER-GEE (Crisis Blues)-DB-1EZNCAy4.mp4",
+            "size": 14.478292992
+        },
+        {
+            "name": "No Llores Más (En Vivo)-r6M_C8lgdhg.mp4",
+            "path": "music_n1/videos/No Llores Más (En Vivo)-r6M_C8lgdhg.mp4",
+            "size": 4.407899136
+        },
+        {
+            "name": "NEGRO- LAUREL AITKEN-5v3BN7rd80c.mp4",
+            "path": "music_n1/videos/NEGRO- LAUREL AITKEN-5v3BN7rd80c.mp4",
+            "size": 9.152948224000001
+        },
+        {
+            "name": "No Es un Crimen-bb-wl2vw-9I.mp4",
+            "path": "music_n1/videos/No Es un Crimen-bb-wl2vw-9I.mp4",
+            "size": 6.598189056000001
+        },
+        {
+            "name": "Nudes-5ePpP5SJnGk.mp4",
+            "path": "music_n1/videos/Nudes-5ePpP5SJnGk.mp4",
+            "size": 4.1060157440000005
+        },
+        {
+            "name": "New Order - Blue Monday (Official Lyric Video)-c1GxjzHm5us.mp4",
+            "path": "music_n1/videos/New Order - Blue Monday (Official Lyric Video)-c1GxjzHm5us.mp4",
+            "size": 13.111901184
+        },
+        {
+            "name": "New Order - Waiting For The Sirens Call [OFFICIAL MUSIC VIDEO]-3oOB9ektig4.mp4",
+            "path": "music_n1/videos/New Order - Waiting For The Sirens Call [OFFICIAL MUSIC VIDEO]-3oOB9ektig4.mp4",
+            "size": 16.161170432000002
+        },
+        {
+            "name": "Nunca Más-eQSJWbGeCGc.mp4",
+            "path": "music_n1/videos/Nunca Más-eQSJWbGeCGc.mp4",
+            "size": 3.896459264
+        },
+        {
+            "name": "Nightwish - Nemo [OFFICIAL VIDEO]-kIBdpFJyFkc.mp4",
+            "path": "music_n1/videos/Nightwish - Nemo [OFFICIAL VIDEO]-kIBdpFJyFkc.mp4",
+            "size": 15.192857600000002
+        },
+        {
+            "name": "No Horse-lykmZf7FPjs.mp4",
+            "path": "music_n1/videos/No Horse-lykmZf7FPjs.mp4",
+            "size": 4.475334656
+        },
+        {
+            "name": "New Order - Bizarre Love Triangle (Official Music Video) [HD Upgrade]-tkOr12AQpnU.mp4",
+            "path": "music_n1/videos/New Order - Bizarre Love Triangle (Official Music Video) [HD Upgrade]-tkOr12AQpnU.mp4",
+            "size": 14.54441472
+        },
+        {
+            "name": "Naila CONJUNTO PRIMAVERA-ojKX6G6is3I.mp4",
+            "path": "music_n1/videos/Naila CONJUNTO PRIMAVERA-ojKX6G6is3I.mp4",
+            "size": 16.554141696000002
+        },
+        {
+            "name": "No Hay Nada Completo-3buGIpX_Zm8.mp4",
+            "path": "music_n1/videos/No Hay Nada Completo-3buGIpX_Zm8.mp4",
+            "size": 4.914311168
+        },
+        {
+            "name": "Ninna e Pasquale-GxMiljTUZzs.mp4",
+            "path": "music_n1/videos/Ninna e Pasquale-GxMiljTUZzs.mp4",
+            "size": 4.479542272000001
+        },
+        {
+            "name": "Nobody But You ~ Dee Clark (1958)(78 rpm)-CTp_nMFf1Ek.mp4",
+            "path": "music_n1/videos/Nobody But You ~ Dee Clark (1958)(78 rpm)-CTp_nMFf1Ek.mp4",
+            "size": 6.399014912
+        },
+        {
+            "name": "Nickelback - Million Miles An Hour (Lyric Video)-mVwTaTEpT8I.mp4",
+            "path": "music_n1/videos/Nickelback - Million Miles An Hour (Lyric Video)-mVwTaTEpT8I.mp4",
+            "size": 29.175415808
+        },
+        {
+            "name": "Nirvana - Smells Like Teen Spirit (Official Music Video)-hTWKbfoikeg.mp4",
+            "path": "music_n1/videos/Nirvana - Smells Like Teen Spirit (Official Music Video)-hTWKbfoikeg.mp4",
+            "size": 16.770361344
+        }
+    ],
+    "total_size": 639.2540590079999
 }
