@@ -27,6 +27,11 @@
             "size": 17.368585216
         },
         {
+            "name": "Chemical Brothers - My Elastic Eye-tl7nGwTp184.mp4",
+            "path": "music_n1/videos/Chemical Brothers - My Elastic Eye-tl7nGwTp184.mp4",
+            "size": 6.051577856000001
+        },
+        {
             "name": "No Esta Perdido-C99KbQNC_Do.mp4",
             "path": "music_n1/videos/No Esta Perdido-C99KbQNC_Do.mp4",
             "size": 6.954210304
@@ -337,5 +342,5 @@
             "size": 16.770361344
         }
     ],
-    "total_size": 702.386950144
+    "total_size": 708.438528
 }
