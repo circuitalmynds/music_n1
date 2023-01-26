@@ -26,7 +26,7 @@
             "id": "QtjeKSZcvDI",
             "name": "Jerome Kern Medley - 'Till the Clouds Roll By'-QtjeKSZcvDI.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/n1/videos/Jerome Kern Medley - 'Till the Clouds Roll By'-QtjeKSZcvDI.mp4",
-            "size": 35.761229,
+            "size": 35.761189,
             "url": "https://github.com/circuitalmynds/music_n1/blob/main/videos/Jerome Kern Medley - 'Till the Clouds Roll By'-QtjeKSZcvDI.mp4?raw=true"
         },
         {
@@ -79,11 +79,25 @@
             "url": "https://github.com/circuitalmynds/music_n1/blob/main/videos/No Como Amigo-Conjunto Primavera de Tony (con letra)-DCRJx7FzXmQ.mp4?raw=true"
         },
         {
+            "id": "AHxrzSLigr4",
+            "name": "No Me Sé Rajar-AHxrzSLigr4.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n1/videos/No Me Sé Rajar-AHxrzSLigr4.mp4",
+            "size": 2.914074,
+            "url": "https://github.com/circuitalmynds/music_n1/blob/main/videos/No Me Sé Rajar-AHxrzSLigr4.mp4?raw=true"
+        },
+        {
             "id": "eQSJWbGeCGc",
             "name": "Nunca Más-eQSJWbGeCGc.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/n1/videos/Nunca Más-eQSJWbGeCGc.mp4",
             "size": 3.8051359999999996,
             "url": "https://github.com/circuitalmynds/music_n1/blob/main/videos/Nunca Más-eQSJWbGeCGc.mp4?raw=true"
+        },
+        {
+            "id": "j6I31BaHMuc",
+            "name": "Nanpa Básico Ft. Charles Ans - Canela (Video Oficial)-j6I31BaHMuc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n1/videos/Nanpa Básico Ft. Charles Ans - Canela (Video Oficial)-j6I31BaHMuc.mp4",
+            "size": 7.858143999999999,
+            "url": "https://github.com/circuitalmynds/music_n1/blob/main/videos/Nanpa Básico Ft. Charles Ans - Canela (Video Oficial)-j6I31BaHMuc.mp4?raw=true"
         },
         {
             "id": "CTp_nMFf1Ek",
@@ -119,6 +133,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/n1/videos/Never Stop-BQ3k_hDrj0Q.mp4",
             "size": 7.238898,
             "url": "https://github.com/circuitalmynds/music_n1/blob/main/videos/Never Stop-BQ3k_hDrj0Q.mp4?raw=true"
+        },
+        {
+            "id": "RZUq6N7Gx1c",
+            "name": "New Edition - Cool It Now (Official Music Video)-RZUq6N7Gx1c.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n1/videos/New Edition - Cool It Now (Official Music Video)-RZUq6N7Gx1c.mp4",
+            "size": 7.324339999999999,
+            "url": "https://github.com/circuitalmynds/music_n1/blob/main/videos/New Edition - Cool It Now (Official Music Video)-RZUq6N7Gx1c.mp4?raw=true"
         },
         {
             "id": "_siJRgDlddY",
@@ -161,6 +182,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/n1/videos/Chemical Brothers - My Elastic Eye-tl7nGwTp184.mp4",
             "size": 5.909744,
             "url": "https://github.com/circuitalmynds/music_n1/blob/main/videos/Chemical Brothers - My Elastic Eye-tl7nGwTp184.mp4?raw=true"
+        },
+        {
+            "id": "5ePpP5SJnGk",
+            "name": "Claire Laffut - Nudes ft. Yseult-5ePpP5SJnGk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n1/videos/Claire Laffut - Nudes ft. Yseult-5ePpP5SJnGk.mp4",
+            "size": 8.128732,
+            "url": "https://github.com/circuitalmynds/music_n1/blob/main/videos/Claire Laffut - Nudes ft. Yseult-5ePpP5SJnGk.mp4?raw=true"
         },
         {
             "id": "ntEulrdc1DY",
@@ -562,5 +590,5 @@
             "url": "https://github.com/circuitalmynds/music_n1/blob/main/videos/No Me Hagas Menos-LDv8iVUj_Os.mp4?raw=true"
         }
     ],
-    "total_size": 1043.6157079999996
+    "total_size": 1069.8409579999995
 }
